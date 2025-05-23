@@ -9,7 +9,7 @@
 // Implementation 2025 Teemo Vaas 
 
 #include <Arduino.h>
-#include "keypad.h"
+#include "button.h"
 
 /*! \brief Read button states.
             Features: Press and release button debounce, click counting and button hold events.
