@@ -1,6 +1,6 @@
 # ButtonDebounceRepeat
 
-ButtonDebounceRepeat is an Arduino library for robust button handling. It provides debouncing, click counting, hold detection, and multi-speed repeat events for a single button input.
+ButtonDebounceRepeat is an Arduino library for button handling. It provides debouncing, click counting, hold detection, and multi-speed repeat events for a single button input.
 
 ## Features
 
